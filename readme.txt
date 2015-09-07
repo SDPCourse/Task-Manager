@@ -36,12 +36,4 @@ Modify Created Task Page (Title - Category - Task Priority - Alarm Option - Crea
 Show List of Created Task (Title - Category - Task Priority - Alarm Option - Creator - Create Date - Schedule - Description - Assignment - Attachment - Confirmation option)
 Access Level (Pubic Viewer - Member - Admin)
 
-----------------------------------------------
-Revision #1: Sept.7.2015 |  Edited by: Ahsani
-Revision #2:             |  Edited by: 
-----------------------------------------------
-Revision #3:             |  Edited by: 
-----------------------------------------------
-Revision #4:             |  Edited by: 
-----------------------------------------------
 -------------------------------------------------------
