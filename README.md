@@ -4,7 +4,9 @@
 Title: OnLine Task Managment (To Do List)<br>
 Commercial Application Name: <Coming soon><br>
 Description: Free open source on line software to create, manage and monitor task progress.<br>
-Applications: Office management Tasks - Organizing personal daily to do list - Athletic and sporting scheduling - Long term planing and goal setting - Medication consumers who needs self/nurse reminder - ...<br>
+<span class="auto-style1">Applications: Office management Tasks - Organizing 
+personal daily to do list - Athletic and sporting scheduling - Long term planing 
+and goal setting - Medication consumers who needs self/nurse reminder - ...</span><br>
 -------------------------------------------------------
 ##Team information:##
 
