@@ -1,4 +1,4 @@
-#Welcome to our TaskManager project page#
+#Welcome to Task-Manager project page#
 ##Project information:##
 
 <b>Title:</b> OnLine Task Manager (To Do List)<br>
