@@ -14,7 +14,7 @@ Applications: Office management Tasks<br>
 ##Team information:##
 
 Team Name: DevMasters<br>
-Team Members: Ahsani- Daneshvar- Fawzi- Nikookar - (join us and add your name here!)<br>
+Team Members: Ahsani- Daneshvar- Fawzi- Nikookar<br>
 
 -------------------------------------------------------
 ##Software Architecture information:##
