@@ -1,15 +1,15 @@
 #Welcome to our TaskManager project page#
 ##Project information:##
 
-Title: OnLine Task Managment (To Do List)<br>
+Title: OnLine Task Manager (To Do List)<br>
 Commercial Application Name: <Coming soon><br>
 Description: Free open source on line software to create, manage and monitor task progress.<br>
 Applications: Office management Tasks<br>
-              Organizing personal daily to do list<br>
-              Athletic and sporting scheduling<br>
-              Long term planing and goal setting<br>
-              Medication consumers who needs self/nurse reminder<br>
-              ...<br>
+		Organizing personal daily to do list<br>
+		Athletic and sporting scheduling<br>
+		Long term planing and goal setting<br>
+		Medication consumers who needs self/nurse reminder<br>
+
 -------------------------------------------------------
 ##Team information:##
 
