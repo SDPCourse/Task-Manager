@@ -24,7 +24,7 @@ Description:
 In order to handle tasks for variable range of users we need to dedicate personal profile to each user.
 afterwards users will create task in diffrent category and manage the assignment and confirmation method.
 users can check their assigned task as a list or open each task one by one to add attachment and extra information.
-Created task need to be modify or remove by its creator.
+Created task need to be modified or removed by its creator.
 
 Modular index:
 Registration Page (First Name - Last Name - Email Address - Password - Confirm Password - Gender - Birth-date - Location - Accept Privacy Policy)
