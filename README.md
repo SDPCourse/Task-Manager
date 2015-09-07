@@ -12,7 +12,7 @@ Team Name: DevMasters
 Team Members: Ahsani- Daneshvar- Fawzi- Nikookar - (join us and add your name here!)
 
 -------------------------------------------------------
-###Software Architecture information:###
+##Software Architecture information:##
 
 Frontend Development: HTML5 - CSS - JavaScript 
 Backend Development: C# - SQL- MySQL database
@@ -22,7 +22,7 @@ Backend Framework: ASP.net
 Software Development Process (methodology): Agile
 
 -------------------------------------------------------
-####Requirement Engineering (RE):####
+##Requirement Engineering (RE):##
 
 Description:
 In order to handle tasks for variable range of users we need to dedicate personal profile to each user.
