@@ -1,14 +1,14 @@
---------------------------------------------------------------------------------------------
 Project information:
 
 Title: OnLineToDoList
 Description: Free opensource online software to create, manage and monitor task progress.
---------------------------------------------------------------------------------------------
+-------------------------------------------------------
 Team information:
 
 Team Name: DevMasters
 Team Members:Ahsani-Daneshvar-Fawzi-Nikookar
---------------------------------------------------------------------------------------------
+
+-------------------------------------------------------
 Software Architecture information:
 
 Mobile Devices Support (Apply responsive design on front end development)
@@ -16,7 +16,8 @@ Frontend Development: HTML5 - CSS - JavaScript
 Backend Development: C# - SQL- MySQL database
 Framework: ASP.net
 Software Development Process (methodology): Agile
---------------------------------------------------------------------------------------------
+
+-------------------------------------------------------
 Requirement Engineering (RE):
 
 Description:
@@ -35,18 +36,12 @@ Modify Created Task Page (Title - Category - Task Priority - Alarm Option - Crea
 Show List of Created Task (Title - Category - Task Priority - Alarm Option - Creator - Create Date - Schedule - Description - Assignment - Attachment - Confirmation option)
 Access Level (Pubic Viewer - Member - Admin)
 
---------------------------------------------------------------------------------------------
-Document History:
- 
-Created on : Sept.4.2015 | Created by: Ahsani
 ----------------------------------------------
 Revision #1: Sept.7.2015 |  Edited by: Ahsani
-----------------------------------------------
 Revision #2:             |  Edited by: 
 ----------------------------------------------
 Revision #3:             |  Edited by: 
 ----------------------------------------------
 Revision #4:             |  Edited by: 
 ----------------------------------------------
-Revision #5:             |  Edited by: 
-----------------------------------------------
+-------------------------------------------------------
