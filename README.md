@@ -1,17 +1,17 @@
-Project information:
+#Project information:#
 
 Title: OnLine To Do List
 Commercial Application Name: <Coming soon>
 Description: Free open source on line software to create, manage and monitor task progress.
 Applications: Office management Tasks - Organizing personal daily to do list - Athletic and sporting scheduling - Long term planing and goal setting - Medication consumers who needs self/nurse reminder - ...
 -------------------------------------------------------
-Team information:
+##Team information:##
 
 Team Name: DevMasters
 Team Members: Ahsani- Daneshvar- Fawzi- Nikookar - (join us and add your name here!)
 
 -------------------------------------------------------
-Software Architecture information:
+###Software Architecture information:###
 
 Frontend Development: HTML5 - CSS - JavaScript 
 Backend Development: C# - SQL- MySQL database
@@ -21,7 +21,7 @@ Backend Framework: ASP.net
 Software Development Process (methodology): Agile
 
 -------------------------------------------------------
-Requirement Engineering (RE):
+####Requirement Engineering (RE):####
 
 Description:
 In order to handle tasks for variable range of users we need to dedicate personal profile to each user.
