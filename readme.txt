@@ -5,7 +5,7 @@ Description: Free opensource online software to create, manage and monitor task 
 -------------------------------------------------------
 Team information:
 
-Team Name: DevMasters
+Team Name: Team # 1 SDPCourse
 Team Members:Ahsani-Daneshvar-Fawzi-Nikookar
 
 -------------------------------------------------------
