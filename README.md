@@ -19,8 +19,8 @@
 -------------------------------------------------------
 ##Software Architecture information:##
 
-<b>Frontend Development:</b> HTML5 - CSS - JavaScript<br>
-<b>Backend Development:</b> C# - SQL- MySQL database<br>
+<b>Frontend Language:</b> HTML5 - CSS - JavaScript<br>
+<b>Backend Language:</b> C# - SQL- MySQL database<br>
 <b>Frontend Framework:</b> Bootstrap<br>
 <b>Backend Framework:</b> ASP.net<br>
 
