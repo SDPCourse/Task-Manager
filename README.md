@@ -21,8 +21,8 @@
 
 <b>Frontend Language:</b> HTML5 - CSS - JavaScript<br>
 <b>Backend Language:</b> C# - SQL- MySQL database<br>
-<b>Frontend Framework:</b> Bootstrap<br>
-<b>Backend Framework:</b> ASP.net<br>
+<b>Frontend Framework:</b> Bootstrap - AngularJS <br>
+<b>Backend Framework:</b> ASP.net MVC <br>
 
 <b>Software Development Process (methodology):</b> Agile<br>
 
