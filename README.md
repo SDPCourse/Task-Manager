@@ -14,7 +14,7 @@
 ##Team information:##
 
 <b>Team Name:</b> DevMasters<br>
-<b>Team Members:</b> Ahsani- Daneshvar- Fawzi- Nikookar<br>
+<b>Team Members:</b> Ahsani- Daneshvar- Fawzi<br>
 
 -------------------------------------------------------
 ##Software Architecture information:##
@@ -36,13 +36,13 @@ users can check their assigned task as a list or open each task one by one to ad
 Created task need to be modified or removed by its creator.
 
 <b>Modular index:</b><br>
-Registration Page (First Name - Last Name - Email Address - Password - Confirm Password - Gender - Birth-date - Location - Accept Privacy Policy)<br>
-Confirmation Email (Activation Link)<br>
-Sign in Page (Email Address - Password - Remember Me - Forgot Password - Reset Password)<br>
+Registration (User Name - Email Address - Password - Confirm Password - Gender - Birth-date - Location - Accept Privacy Policy - Activation Link - Congradulation Email)<br>
+Sign in (Email Address - Password - Remember Me - Forgot Password - Reset Password)<br>
 User Profile (Change Name - Change Email - Change Password - Change Location - Change Birth-date - Add Photo)<br>
-Create New Task Page (Title - Category - Task Priority - Alarm Option - Creator - Create Date - Schedule - Description - Assignment - Attachment - Confirmation option)<br>
-Modify Created Task Page (Title - Category - Task Priority - Alarm Option - Creator - Create Date - Schedule - Description - Assignment - Attachment - Confirmation option - Remove Task)<br>
-Show List of Created Task (Title - Category - Task Priority - Alarm Option - Creator - Create Date - Schedule - Description - Assignment - Attachment - Confirmation option)<br>
+Create Task (Title - Category - Task Priority - Alarm Option - Creator - Create Date - Schedule - Description - Assignment - Attachment - Confirmation option)<br>
+Modify Task (Title - Category - Task Priority - Alarm Option - Creator - Create Date - Schedule - Description - Assignment - Attachment - Confirmation option - Remove Task)<br>
+Show Task (Title - Category - Task Priority - Alarm Option - Creator - Create Date - Schedule - Description - Assignment - Attachment - Confirmation option)<br>
+List All (Search by name - Search by Category - Change listing order - Filter)<br>
 Access Level (Pubic Viewer - Member - Administrator)<br>
 
 -------------------------------------------------------
